@@ -21,12 +21,3 @@ body and title.
 For example, the article with the title "Legendary Arecibo telescope will close forever — scientists are reeling" 
 would be saved to the file named Legendary_Arecibo_telescope_will_close_forever_scientists_are_reeling.txt.
 4) If there's no articles on the page, script creates a folder, but in this case the folder would be empty.
-
-Example
-The program takes 2 input values from the user and then continues to process the Nature website data.
-
-The greater-than symbol followed by a space (> ) represents the user input.
-
-> 4
-> Nature Briefing
-Saved all articles.
