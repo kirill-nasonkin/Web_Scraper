@@ -1,6 +1,6 @@
 Web_Scraper project on JetBrains Academy.
 
-URL parser is base on: "https://www.nature.com/nature/articles?sort=PubDate&year=2020" - Articles agregator
+URL parser is base on: [NATURE](https://www.nature.com/nature/articles?sort=PubDate&year=2020) - Articles agregator
 
 Description:
 
